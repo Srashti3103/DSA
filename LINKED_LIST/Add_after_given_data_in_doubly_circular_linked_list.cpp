@@ -7,6 +7,7 @@ struct Node
 };
 
 
+
 Node *first, *temp ,*ttemp,*p;
 void init()
 {
