@@ -10,6 +10,8 @@ Node *first,*temp,*ttemp,*p;
 void init()
 {
 	
+
+	
 	first = temp = ttemp = p = NULL;
 }
 void create_first()
