@@ -11,6 +11,8 @@ void init()
 {
 	first = temp = ttemp = NULL;
 }
+
+
 void create_first()
 {
 	int x;
