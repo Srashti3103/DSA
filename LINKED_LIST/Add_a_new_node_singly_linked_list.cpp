@@ -9,6 +9,7 @@ struct Node
 Node *first , *temp ,*ttemp , *p;
 void init()
 
+
 {
 	first = temp = ttemp = NULL;
 }
