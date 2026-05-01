@@ -48,6 +48,7 @@ void Add_After(int x)
 void disp()
 {
 	
+	
 	temp =first;
 	do{
 		cout<<temp->data<<endl;
