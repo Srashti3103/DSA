@@ -6,6 +6,7 @@ struct Node
 	int data;
 
 	
+	
 	Node *next;	
 };
 Node *first, *temp ,*ttemp,*p;
