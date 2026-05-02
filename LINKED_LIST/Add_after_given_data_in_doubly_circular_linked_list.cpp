@@ -49,6 +49,7 @@ void disp()
 {
 	
 	
+	
 	temp =first;
 	do{
 		cout<<temp->data<<endl;
