@@ -6,6 +6,7 @@ int main(){
 	scanf("%s",a);
 	strlwr(a);
 	
+	
 	printf("%s",a);
 	strupr(a);
 	printf("%s",a);	
