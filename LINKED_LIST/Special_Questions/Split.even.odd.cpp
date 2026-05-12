@@ -5,6 +5,7 @@ int main(){
 	printf("ENTER NAME \n");
 	scanf("%s",a);
 	strlwr(a);
+	
 	printf("%s",a);
 	strupr(a);
 	printf("%s",a);	
