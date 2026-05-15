@@ -24,6 +24,7 @@ void AddNode()
 { 
 	temp = first;
 	while(temp->next!=NULL)
+	
 	{
 		temp = temp -> next ;
 	}
